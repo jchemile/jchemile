@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm a software developer who works with python 🐍 daily. I'm currently working in the data world. 
+
+🤔 I'm looking for help to understand how to make a correct deployment to a cloud service and how it is related front end and backend.
+
+🌱 My side projects are related to the creation of web applications.
+
+📫 You can reach me my personal [Twitter](https://twitter.com/jchemile) and my personal [Linkedin](https://www.linkedin.com/in/jchemile/) in both my user is jchemile. 
+
+⚡ Fun fact: You can find me on GoodReads, thinking about literature📚 or dance👯. 
+
 <!--
 **jchemile/jchemile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
