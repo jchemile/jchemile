@@ -6,7 +6,7 @@ I'm a software developer who works with python 🐍 daily. I'm currently working
 
 🌱 My side projects are related to the creation of web applications.
 
-📫 You can reach me my personal [Twitter](https://twitter.com/jchemile) and my personal [Linkedin](https://www.linkedin.com/in/jchemile/) in both my user is jchemile. 
+📫 You can reach me my personal [Twitter](https://twitter.com/geeklogbook). 
 
 ⚡ Fun fact: You can find me on GoodReads, thinking about literature📚 or dance👯. 
 
