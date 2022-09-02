@@ -6,8 +6,6 @@ I'm a software developer who works with python 🐍 daily. I'm currently working
 
 🌱 My side projects are related to the creation of web applications.
 
-📫 You can reach me on [Twitter](https://twitter.com/geeklogbook). 
-
 <!--
 **jchemile/jchemile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
